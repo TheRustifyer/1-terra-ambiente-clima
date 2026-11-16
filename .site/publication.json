@@ -1,0 +1,28 @@
+{
+  "privateAttachments": [
+    "01 Sistema climático y registro del clima/Cap1_Teoria_18_09_2018.pdf",
+    "Cap2_Teoria_29_10_2024.pdf",
+    "Serie_2.pdf"
+  ],
+  "excludePages": [
+    "01 Sistema climático y registro del clima/Resumen NotebookLM.md"
+  ],
+  "practice": [
+    {
+      "path": "01 Sistema climático y registro del clima/01 Ejercicios resueltos — Sistema climático y registro del clima.md",
+      "labels": {
+        "en": "Chapter 1 exercises",
+        "es": "Ejercicios del capítulo 1",
+        "pt": "Exercícios do capítulo 1"
+      }
+    },
+    {
+      "path": "02 Ejercicios resueltos — Balance radiativo y atmósfera.md",
+      "labels": {
+        "en": "Chapter 2 exercises",
+        "es": "Ejercicios del capítulo 2",
+        "pt": "Exercícios do capítulo 2"
+      }
+    }
+  ]
+}

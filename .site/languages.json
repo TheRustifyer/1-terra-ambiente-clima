@@ -1,0 +1,27 @@
+{
+  "sourceLanguage": "es",
+  "defaultLanguage": "en",
+  "locales": {
+    "en": {
+      "label": "English",
+      "locale": "en-US",
+      "prefix": "",
+      "titles": {
+        "index.md": "Earth, Environment and Climate — Course index"
+      }
+    },
+    "es": {
+      "label": "Español",
+      "locale": "es-ES",
+      "prefix": "es"
+    },
+    "pt": {
+      "label": "Português",
+      "locale": "pt-PT",
+      "prefix": "pt",
+      "titles": {
+        "index.md": "Terra, Ambiente e Clima — Índice de conteúdos"
+      }
+    }
+  }
+}

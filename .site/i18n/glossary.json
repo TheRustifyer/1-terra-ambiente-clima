@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "exact": {
+    "en": {
+      "Terra, Ambiente e Clima": "Earth, Environment and Climate",
+      "Sistema climático y registro del clima": "Climate system and climate records",
+      "Balance radiativo y atmósfera": "Radiation balance and the atmosphere",
+      "Circulación atmosférica y oceánica": "Atmospheric and oceanic circulation",
+      "Dinámica de la geosfera": "Geosphere dynamics",
+      "forzamiento radiativo": "radiative forcing",
+      "semivida": "half-life",
+      "vida media": "mean lifetime",
+      "núclido padre": "parent nuclide",
+      "núclido hijo": "daughter nuclide",
+      "mareógrafo": "tide gauge",
+      "anillos de crecimiento": "tree rings",
+      "Ejercicios resueltos": "Worked exercises"
+    },
+    "pt": {
+      "Terra, Ambiente e Clima": "Terra, Ambiente e Clima",
+      "Sistema climático y registro del clima": "Sistema climático e registo do clima",
+      "Balance radiativo y atmósfera": "Balanço radiativo e atmosfera",
+      "Circulación atmosférica y oceánica": "Circulação atmosférica e oceânica",
+      "Dinámica de la geosfera": "Dinâmica da geosfera",
+      "forzamiento radiativo": "forçamento radiativo",
+      "semivida": "tempo de semivida",
+      "vida media": "vida média",
+      "núclido padre": "nuclídeo pai",
+      "núclido hijo": "nuclídeo filho",
+      "mareógrafo": "marégrafo",
+      "anillos de crecimiento": "anéis de crescimento",
+      "Ejercicios resueltos": "Exercícios resolvidos"
+    }
+  }
+}

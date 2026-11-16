@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "engine": "argostranslate",
+  "engineVersion": "1.11.0",
+  "models": [
+    {
+      "source": "es",
+      "target": "en",
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+      "sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+      "bytes": 285208831
+    },
+    {
+      "source": "es",
+      "target": "pt",
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-es_pt-1_0.argosmodel",
+      "sha256": "c772951dee3917f799b701bde0612331f54e1aa09d709dd057bee6b41bb04936",
+      "bytes": 67510435
+    }
+  ],
+  "sentenceBoundary": {
+    "engine": "minisbd",
+    "version": "0.9.5",
+    "url": "https://github.com/LibreTranslate/MiniSBD/releases/download/v0.0.1/es.onnx",
+    "sha256": "9774dd5ed1bd2d0566fa8d12ee59fd1d2c57b97127d004e03aa2b7b1cc6b2652",
+    "bytes": 193234
+  }
+}

@@ -2,7 +2,7 @@
   "schema": 1,
   "recipe": "40e2166d1009f1064eff23b4b4e768b84b32a094f51d59d20ea9b4e533bb125e",
   "engine": "Argos Translate",
-  "sourceCommit": "89a686def1ad865d6c191e70346684cf603db7c1",
+  "sourceCommit": "f09e1c04bcf7163fe6209d5c9978b41aa4415c4f",
   "documents": [
     {
       "path": "01 Sistema climático y registro del clima/01 Ejercicios resueltos — Sistema climático y registro del clima.md",
@@ -47,13 +47,13 @@
   ],
   "stats": {
     "en": {
-      "translated": 2890,
-      "reused": 0,
+      "translated": 0,
+      "reused": 2890,
       "total": 2890
     },
     "pt": {
-      "translated": 2890,
-      "reused": 0,
+      "translated": 0,
+      "reused": 2890,
       "total": 2890
     }
   }

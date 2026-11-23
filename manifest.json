@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "recipe": "40e2166d1009f1064eff23b4b4e768b84b32a094f51d59d20ea9b4e533bb125e",
+  "engine": "Argos Translate",
+  "sourceCommit": "89a686def1ad865d6c191e70346684cf603db7c1",
+  "documents": [
+    {
+      "path": "01 Sistema climático y registro del clima/01 Ejercicios resueltos — Sistema climático y registro del clima.md",
+      "sourceHash": "11d1e46515e3db11c2e71354771a218e6035753f145dc80c29856b5d3fb9e55a"
+    },
+    {
+      "path": "01 Sistema climático y registro del clima/01 Sistema climático y registro del clima — preparación.md",
+      "sourceHash": "784240b1b954fa3384b7e3c1c555377386ab39d562d8649c96ea645f5738a36b"
+    },
+    {
+      "path": "01 Sistema climático y registro del clima/01 Sistema climático y registro del clima.md",
+      "sourceHash": "4cb5b3f4f9b1a0183f40fc0a38c3900c5da0ed89f4cf63d6dddd7d03d4432964"
+    },
+    {
+      "path": "02 Balance radiativo y atmósfera — preparación.md",
+      "sourceHash": "b6aadaaf8eb4e62c35d721b1cbe5115ea2d3ce093abf014e68a887af6fe23927"
+    },
+    {
+      "path": "02 Balance radiativo y atmósfera.md",
+      "sourceHash": "af7e8d54a1434793fc941af1445a5d3a51ee96c2f05dee5cad2a2739ad6aa584"
+    },
+    {
+      "path": "02 Ejercicios resueltos — Balance radiativo y atmósfera.md",
+      "sourceHash": "b629bc483c156dd66f09e2bcbc60308a3f76940993c2f1ca7d9e58c0e1851c75"
+    },
+    {
+      "path": "03 Circulación atmosférica y oceánica.md",
+      "sourceHash": "a762813c0d3cf02ebb970a2fa23716bbdfde38f7eff952700371032c934d36fb"
+    },
+    {
+      "path": "04 Dinámica de la geosfera.md",
+      "sourceHash": "601dbe9bb0751c94a6d378599e5830e417dae39ef56c1ac3034bf5d2da12d4c0"
+    },
+    {
+      "path": "Preparación del examen — Terra, Ambiente e Clima.md",
+      "sourceHash": "74a42bd62075a6120aac75f456929715fbc3c72a917c09f9401c84961c01be3e"
+    },
+    {
+      "path": "index.md",
+      "sourceHash": "b02820384ff9a976712c971571606eaf7b201be8df5184d5e5ff2e3e98b172c4"
+    }
+  ],
+  "stats": {
+    "en": {
+      "translated": 2890,
+      "reused": 0,
+      "total": 2890
+    },
+    "pt": {
+      "translated": 2890,
+      "reused": 0,
+      "total": 2890
+    }
+  }
+}
